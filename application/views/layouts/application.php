@@ -1,6 +1,6 @@
-<!doctype html>  
+<!doctype html>
 
-<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ --> 
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
 <!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
 <!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
@@ -9,7 +9,7 @@
 <head>
 <meta charset="utf-8">
 
-<title><?php echo $title; ?></title>
+<title></title>
 <meta name="description" content="">
 <meta name="author" content="">
 
@@ -17,7 +17,7 @@
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
-<link rel="stylesheet" href="assets/less/bootstrap.css">
+<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 <script src="assets/js/libs/modernizr-2.5.3.js"></script>
 
 </head>
@@ -46,7 +46,7 @@
 			</div>
 		</div>
 	</footer>
-      
+
 </div> <!--! end of #container -->
 
 
